@@ -41,7 +41,8 @@ int n=2; TOH(n,'A','B','C');
 
 ## Output:
 
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/74af8a62-3c46-4490-a616-2c289e1a6ece)
 
 
 
